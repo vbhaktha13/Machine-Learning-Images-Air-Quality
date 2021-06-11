@@ -1,4 +1,8 @@
-![PM2 5 linear regression model](https://user-images.githubusercontent.com/78837487/121621669-39443100-ca8a-11eb-9470-e01b23d0b048.jpg)
+![PM](https://user-images.githubusercontent.com/78837487/121651037-d10c4400-cab7-11eb-9050-534a192cf9ba.jpg)
+
+
+
+
 # Machine-Learning-Images-Air-Quality-
 **ML Air Quality project**
 Air quality monitoring is conducted with the aim of protecting public health. Numerous air contaminants have been found to have harmful effects on human health. The air
@@ -15,3 +19,6 @@ data, no matter how infrequent, can bias findings on the relationships between a
 Incomplete data matrices may provide outcomes that vary significantly, compared to the results from complete data sets.
 To gain a more complete data set, researchers must decide whether to discard or impute (i.e., substitute for) missing data.
 Ignoring missing values is typically not warrant
+
+
+![air pollution](https://user-images.githubusercontent.com/78837487/121651567-64457980-cab8-11eb-88d9-a35bba626fbd.jpg)
