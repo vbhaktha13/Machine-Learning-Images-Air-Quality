@@ -1,2 +1,2 @@
 # Machine-Learning-Images-Air-Quality-
-ML projects
+**ML projects**
