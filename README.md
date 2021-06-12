@@ -19,7 +19,8 @@ modeling, which generally requires a complete data matrix. The occurrence of mis
 data, no matter how infrequent, can bias findings on the relationships between air contaminants and health outcomes. 
 Incomplete data matrices may provide outcomes that vary significantly, compared to the results from complete data sets.
 To gain a more complete data set, researchers must decide whether to discard or impute (i.e., substitute for) missing data.
-Ignoring missing values is typically not warrant
+ Logarithm and square root transformation was carried out for all pollutant data, in order to normalize distributions and to minimize skewness in y and x variables.  Climatological data (i.e., air temperature, relative humidity, wind direction, and wind
+speed) were used as control variables for better estimation
 
 
 ![air pollution](https://user-images.githubusercontent.com/78837487/121651567-64457980-cab8-11eb-88d9-a35bba626fbd.jpg)
