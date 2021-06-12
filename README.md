@@ -5,7 +5,9 @@
 
 
 # Machine-Learning-Images-Air-Quality-
-**ML Air Quality project**
+**Linear Regression - Air Quality project**
+
+
 Air quality monitoring is conducted with the aim of protecting public health. Numerous air contaminants have been found to have harmful effects on human health. The air
 quality in cities varies, due to concentrations of particulate matter 2.5 (PM2.5) and 10 micrometers (PM10),
 nitrogen dioxide (NO2), ozone (O3), carbon monoxide (CO), and sulfur dioxide (SO2),
@@ -20,7 +22,7 @@ data, no matter how infrequent, can bias findings on the relationships between a
 Incomplete data matrices may provide outcomes that vary significantly, compared to the results from complete data sets.
 To gain a more complete data set, researchers must decide whether to discard or impute (i.e., substitute for) missing data.
  Logarithm and square root transformation was carried out for all pollutant data, in order to normalize distributions and to minimize skewness in y and x variables.  Climatological data (i.e., air temperature, relative humidity, wind direction, and wind
-speed) were used as control variables for better estimation
+speed) were used as control variables for better estimation.
 
 
 ![air pollution](https://user-images.githubusercontent.com/78837487/121651567-64457980-cab8-11eb-88d9-a35bba626fbd.jpg)
